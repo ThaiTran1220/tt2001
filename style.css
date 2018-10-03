@@ -1,0 +1,80 @@
+body {
+    background-image:url("aboutbg.jpg");
+    background-repeat:no-repeat;
+    background-size:100%;
+    background-attachment:fixed;
+    font-family: 'Nunito', sans-serif;
+    color:white;
+}
+
+h1, h3 {
+    font-family: 'Comfortaa', cursive;
+}
+
+#nav {
+    list-style-type: none;
+    margin: -8px;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightgrey;
+}
+
+#nav li {
+    float: left;
+}
+
+#nav li a {
+    display: block;
+    text-align: center;
+    padding: 13px 16px;
+    text-decoration: none;
+    color: black;
+}
+
+#nav li a:hover {
+    background-color: #53a7ea;
+}
+
+#content {
+    width: 66%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 9.1px;
+    text-align:center;
+    padding-bottom: 16px;
+}
+
+table {
+    margin:auto;
+}
+
+#content ul, #content ol {
+    list-style-position: inside;
+    padding-left:0px;
+}
+
+#resume1, #resume2 {
+    font-size: 18px;
+}
+
+#resume3 {
+    font-size: 20px;
+}
+
+#resume4 {
+    font-size: 24px;
+}
+
+#content1 {
+    width: 66%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 9.1px;
+    text-align: left;
+    padding-bottom: 16px;
+}
+
+#content ul {
+    list-style-position: inside;
+    padding-left:0px;
+}
