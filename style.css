@@ -78,3 +78,7 @@ table {
     list-style-position: inside;
     padding-left:0px;
 }
+
+#gamelink:visited {
+    color:white;
+} 
